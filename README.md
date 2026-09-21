@@ -1,8 +1,8 @@
-# AI MCQ Generator
+# MCQ Generator APP
 
 ## Project Overview
 
-**AI MCQ Generator** is a Streamlit-based web application that uses Artificial Intelligence to automatically generate Multiple Choice Questions (MCQs) from a given topic or text.
+**MCQ Generator APP** is a Streamlit-based web application that uses Artificial Intelligence to automatically generate Multiple Choice Questions (MCQs) from a given topic or text.
 
 The application allows users to select the **number of questions** and **difficulty level**. It generates questions with four answer options, correct answers, and explanations.
 
@@ -90,7 +90,7 @@ The complete dependencies are available in the `requirements.txt` file.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-link>
+https://github.com/nikithanka7-byte/MCQ-Generator-APP
 ```
 
 ### 2. Open the Project Folder
@@ -245,32 +245,24 @@ The questions are generated using the AI model and processed as structured JSON 
 
 ---
 
-## Example
+## Example - Application Preview
 
-### Input
+[streamlit-app-2026-09-21-12-15-19.webm](https://github.com/user-attachments/assets/0d5a89fa-e20c-454b-bdf3-b2a861e75f82)
+<img width="1366" height="768" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/46acb6f2-e9c8-4c66-a080-db222e0c1fcc" />
+<img width="1366" height="768" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/1b290bf8-20d8-4aeb-bdc4-5ff674d192a2" />
+<img width="1366" height="768" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/f6ba04dd-dfeb-40e7-9c65-5ffee035d0aa" />
+<img width="1366" height="768" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/6c37becd-ee4a-45ad-89fa-39f9f13e1051" />
+
+
+
+
 
 ```text
-Topic: Artificial Intelligence
-Number of Questions: 5
-Difficulty: Medium
-```
 
-### Generated Output
 
-```text
-Question:
-What is Artificial Intelligence?
 
-A. A type of database
-B. A field of computer science
-C. A programming language
-D. An operating system
 
-Correct Answer:
-B
 
-Explanation:
-Artificial Intelligence is a field of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence.
 ```
 
 ---
