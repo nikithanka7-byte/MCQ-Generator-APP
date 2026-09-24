@@ -244,6 +244,7 @@ Explanation
 The questions are generated using the AI model and processed as structured JSON data.
 
 ---
+## APP LINK : https://mcq-generator-app-mspkdiseutjnf7ey6t4zyp.streamlit.app/
 
 ## Example - Application Preview
 
@@ -284,19 +285,6 @@ Score: 8/10
 
 ---
 
-## Learning Outcomes
-
-Through this project, we learn:
-
-- How to build an AI application using **Streamlit**
-- How to use the **Hugging Face Inference API**
-- How to work with an **instruction-tuned language model**
-- How to integrate an AI model into a Python application
-- How to generate structured **JSON output**
-- How to create an interactive quiz application
-- How to process AI-generated content
-- How to calculate quiz scores using Python
-- How to create a user-friendly web interface
 
 ---
 
@@ -332,10 +320,3 @@ The AI MCQ Generator can be useful for:
 
 ---
 
-## Conclusion
-
-The **AI MCQ Generator** demonstrates how Generative AI can be integrated with a **Streamlit application** to automatically create interactive multiple-choice quizzes.
-
-By combining **Python, Streamlit, Hugging Face Inference API, and Qwen2.5-72B-Instruct**, the application provides an easy way to generate questions, answer quizzes, evaluate responses, and calculate scores automatically.
-
-This project also provides practical experience in **Generative AI, API integration, structured JSON generation, and Streamlit application development**.
